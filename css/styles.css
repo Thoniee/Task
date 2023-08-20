@@ -279,3 +279,29 @@ a {
   object-fit: cover;
   z-index: 2;
 }
+
+.consultation-info {
+  position: absolute;
+  bottom: 20px;
+  z-index: 4;
+  margin-left: 20px;
+  line-height: 2;
+  color: #fff;
+}
+
+.consultation h2 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 149.5%; /* 62.79px */
+}
+.consultation .flex {
+  gap: 150px;
+}
+
+.consultation-info {
+  margin-left: 250px;
+  padding-top: 20px;
+}
